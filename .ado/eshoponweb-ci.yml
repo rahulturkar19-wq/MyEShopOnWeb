@@ -1,4 +1,3 @@
-#This is my first commnet as per work iteam ID = 9
 #NAME THE PIPELINE SAME AS FILE (WITHOUT ".yml")
 # trigger:
 # - main
